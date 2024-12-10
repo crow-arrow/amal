@@ -37,7 +37,7 @@
   font-weight: 300;
 }
 .header_menu > ol > li > a:hover {
-    color: #ff6900; /* Укажите желаемый цвет шрифта при наведении */
+    color: #ff6900;
 }
 
 .header_menu a {
